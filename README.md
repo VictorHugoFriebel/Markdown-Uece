@@ -26,15 +26,17 @@ A implementação deste projeto visa alcançar os seguintes objetivos:
 ## 4. Especificações Técnicas dos Notebooks
 
 Para garantir a longevidade do investimento e o desempenho adequado para as atividades educacionais previstas para os próximos cinco anos, os notebooks a serem adquiridos deverão atender às seguintes especificações:
-| Componente|Especificação Mínima|Especificação Recomendada|
+| **Componente**|**Especificação Mínima**|**Especificação Recomendada**|
 |-|-|-|
 |Processador| Intel Core i5 (11° Geração ou superior)|Intel Core I7 (11° Geração ou superior)
 |Memória RAM| 8 GB DDR4| 16 GB DDR4
+|Placa de Vídeo| Gráficos Integrados (Intel Iris Xe ou AMD Radeon) | NVIDIA GeForce RTX 3050 (4 GB) ou superior |
 |Armazenamento| SSD 256 GB NVMe| SSD 512 GB NVMe 
 |Tela|14 polegadas, Full HD (1920x1080)|15,6 polegadas, Full HD (1920x1080),IPS
 |Bateria| Autonomia mínima de 6 horas de uso contínuo| Autonomia mínima de 8 horas de uso contínuo
 |Conectividade| Wi-Fi 6, Bluetooth 5.1| Wi-Fi 6E, Bluetooth 5.2
 |Sistema Operacional| Windows 11 Home | Windows 11 Pro
+|Peso| Máximo de 1.8 kg | Máximo de 1.6 kg |
 
 **Modelo de Referência:** Para especificações detalhadas, um modelo similar ([Dell Latitude 3420](img/Dell%20Latidude%203420.jpg)) pode ser consultado no site da [Dell](https://www.dell.com/pt-br/shop/cty/pdp/spd/latitude-14-3420-laptop?redirectTo=MOC).
 **Artigo de Apoio:** Um estudo sobre o impacto positivo da tecnologia móvel na educação pode ser lido em ["O Uso Do Notebook Em Sala De Aula Como Facilitador Do Ensino E Aprendizagem Da Matemática"](https://online.unisc.br/acadnet/anais/index.php/pibid_unisc/article/view/17836).
@@ -42,7 +44,7 @@ Para garantir a longevidade do investimento e o desempenho adequado para as ativ
 ## 5. Orçamento Estimado
 
 A tabela abaixo detalha os custos projetados para a aquisição dos 30 notebooks e dos serviços e acessórios necessários para a plena execução do projeto.
-| Item | Custo Unitário (R$) | Quantidade | Custo Total (R$) |
+| **Item** | **Custo Unitário (R$)** | **Quantidade** | **Custo Total (R$)** |
 |-|-|-|-|
 | Notebook (conforme especificação) | R$ 5.500,00 | 30 | R$ 165.000,00 |
 | Bolsa/Case de Proteção | R$ 120,00 | 30 | R$ 3.600,00 |
@@ -65,8 +67,8 @@ A transição para um parque tecnológico móvel trará benefícios significativ
 - ## 7. Cronograma
 
 O projeto será executado conforme as seguintes fases:
-| Fase | Descrição | Duração Estimada |
-| :- | :- | :- |
+|**Fase**|**Descrição**|**Duração Estimada**|
+|-|-|-|
 | **1. Planejamento e Aprovação** | Apresentação do projeto e aprovação orçamentária. | 2 semanas |
 | **2. Processo de Aquisição** | Cotação com fornecedores e processo de compra. | 4 semanas |
 | **3. Recebimento e Configuração**| Entrega dos equipamentos, instalação de softwares e testes.| 2 semanas |
