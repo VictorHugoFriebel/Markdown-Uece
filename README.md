@@ -36,7 +36,7 @@ Para garantir a longevidade do investimento e o desempenho adequado para as ativ
 |Conectividade| Wi-Fi 6, Bluetooth 5.1| Wi-Fi 6E, Bluetooth 5.2
 |Sistema Operacional| Windows 11 Home | Windows 11 Pro
 
-**Modelo de Referência:** Para especificações detalhadas, um modelo similar pode ser consultado no site da [Dell](https://www.dell.com/pt-br/shop/cty/pdp/spd/latitude-14-3420-laptop?redirectTo=MOC) ou a [seguir:](img/peripherals_laptop_latitude_3420nt_gallery_3.avif)
+**Modelo de Referência:** Para especificações detalhadas, um modelo similar pode ser consultado no site da [Dell](https://www.dell.com/pt-br/shop/cty/pdp/spd/latitude-14-3420-laptop?redirectTo=MOC).
 **Artigo de Apoio:** Um estudo sobre o impacto positivo da tecnologia móvel na educação pode ser lido em ["O Uso Do Notebook Em Sala De Aula Como Facilitador Do Ensino E Aprendizagem Da Matemática"](https://online.unisc.br/acadnet/anais/index.php/pibid_unisc/article/view/17836).
 
 ## 5. Orçamento Estimado
