@@ -13,15 +13,15 @@ A substituição dos desktops por notebooks representa uma evolução estratégi
 
 A implementação deste projeto visa alcançar os seguintes objetivos:
 
--   **Modernizar 100% do parque computacional** destinado aos alunos, substituindo os equipamentos obsoletos.
+- **Modernizar 100% do parque computacional** destinado aos alunos, substituindo os equipamentos obsoletos.
     
--   **Promover a mobilidade e a flexibilidade**, permitindo o uso dos recursos tecnológicos em, no mínimo, cinco ambientes de aprendizado diferentes (salas de aula, biblioteca, pátio, etc.).
+- **Promover a mobilidade e a flexibilidade**, permitindo o uso dos recursos tecnológicos em, no mínimo, cinco ambientes de aprendizado diferentes (salas de aula, biblioteca, pátio, etc.).
     
--   **Aumentar em 40% o tempo de utilização** dos equipamentos, ao eliminar a restrição de uso a um único laboratório.
+- **Aumentar em 40% o tempo de utilização** dos equipamentos, ao eliminar a restrição de uso a um único laboratório.
     
--   **Reduzir o consumo de energia** relacionado aos computadores em aproximadamente 60%, devido à maior eficiência energética dos notebooks.
+- **Reduzir o consumo de energia** relacionado aos computadores em aproximadamente 60%, devido à maior eficiência energética dos notebooks.
     
--   **Capacitar alunos e professores** para o uso de ferramentas digitais em um ambiente de aprendizado flexível e moderno.
+- **Capacitar alunos e professores** para o uso de ferramentas digitais em um ambiente de aprendizado flexível e moderno.
     
 ## 4. Especificações Técnicas dos Notebooks
 
@@ -61,12 +61,12 @@ A tabela abaixo detalha os custos projetados para a aquisição dos 30 notebooks
 
 A transição para um parque tecnológico móvel trará benefícios significativos e multifacetados para toda a comunidade escolar:
 
--   **Para os Alunos:** Acesso facilitado a recursos digitais, promoção da aprendizagem ativa e colaborativa, e desenvolvimento de autonomia e responsabilidade pelo uso do equipamento.
+- **Para os Alunos:** Acesso facilitado a recursos digitais, promoção da aprendizagem ativa e colaborativa, e desenvolvimento de autonomia e responsabilidade pelo uso do equipamento.
     
--   **Para os Professores:** Maior flexibilidade para planejar e executar aulas inovadoras, integrando a tecnologia diretamente ao currículo em qualquer ambiente de aprendizado.
+- **Para os Professores:** Maior flexibilidade para planejar e executar aulas inovadoras, integrando a tecnologia diretamente ao currículo em qualquer ambiente de aprendizado.
     
--   **Para a Instituição:** Otimização do uso de espaços físicos, redução de custos com energia elétrica e manutenção, e fortalecimento da imagem do polo como uma instituição moderna e alinhada às melhores práticas educacionais. A facilidade de armazenamento e distribuição dos notebooks também simplifica a logística de TI.
-- ## 7. Cronograma
+- **Para a Instituição:** Otimização do uso de espaços físicos, redução de custos com energia elétrica e manutenção, e fortalecimento da imagem do polo como uma instituição moderna e alinhada às melhores práticas educacionais. A facilidade de armazenamento e distribuição dos notebooks também simplifica a logística de TI.
+## 7. Cronograma
 
 O projeto será executado conforme as seguintes fases:
 |**Fase**|**Descrição**|**Duração Estimada**|
