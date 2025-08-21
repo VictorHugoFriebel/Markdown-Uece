@@ -1,13 +1,13 @@
 # Projeto de Modernização Tecnológica: Aquisição de Notebooks para o CVT Beberibe (Rui Facó) - CENTEC - POLO UAB
 ## 1. Resumo Executivo
 
-Este projeto detalha a proposta para a aquisição de 30 notebooks de alto desempenho destinados a substituir os computadores de mesa atualmente em uso nos laboratórios da Escola [Nome da Escola]. A presente iniciativa visa modernizar a infraestrutura tecnológica, superando as limitações dos equipamentos atuais, que são obsoletos e fixos. A implementação desta solução promoverá um ambiente de aprendizado mais dinâmico, flexível e alinhado às novas metodologias de ensino, garantindo mobilidade e otimizando o uso dos recursos pedagógicos.
+Este projeto detalha a proposta para a aquisição de 30 notebooks de alto desempenho destinados a substituir os computadores de mesa atualmente em uso. A presente iniciativa visa modernizar a infraestrutura tecnológica, superando as limitações dos equipamentos atuais, que são obsoletos e fixos. A implementação desta solução promoverá um ambiente de aprendizado mais dinâmico, flexível e alinhado às novas metodologias de ensino, garantindo mobilidade e otimizando o uso dos recursos pedagógicos.
 
 ## 2. Introdução e Justificativa
 
 O cenário tecnológico atual da nossa instituição é caracterizado por computadores de mesa com mais de sete anos de uso, cujo desempenho é insuficiente para a execução de softwares educacionais modernos. Além da obsolescência, a natureza estática desses equipamentos restringe o seu uso a um único laboratório, criando um gargalo no acesso à tecnologia e impedindo a integração de recursos digitais em outras salas de aula e ambientes de aprendizado. Essa limitação impacta negativamente a capacidade dos professores de inovar em suas práticas pedagógicas e a dos alunos de desenvolverem habilidades digitais essenciais.
 
-A substituição dos desktops por notebooks representa uma evolução estratégica fundamental. Diferentemente dos computadores de mesa, os notebooks oferecem mobilidade e flexibilidade, permitindo que qualquer sala de aula ou espaço comum se transforme instantaneamente em um ambiente de aprendizado digital. Essa portabilidade facilita a realização de trabalhos em grupo, pesquisas de campo e projetos interdisciplinares, além de otimizar o espaço físico da escola. Portanto, este investimento não se trata apenas de uma atualização de hardware, mas de um passo decisivo para a construção de uma cultura escolar mais moderna, colaborativa e eficaz.
+A substituição dos desktops por notebooks representa uma evolução estratégica fundamental. Diferentemente dos computadores de mesa, os notebooks oferecem mobilidade e flexibilidade, permitindo que qualquer sala de aula ou espaço comum se transforme instantaneamente em um ambiente de aprendizado digital. Essa portabilidade facilita a realização de trabalhos em grupo, pesquisas de campo e projetos interdisciplinares, além de otimizar o espaço físico do polo. Portanto, este investimento não se trata apenas de uma atualização de hardware, mas de um passo decisivo para a construção de uma cultura escolar mais moderna, colaborativa e eficaz.
 
 ## 3. Objetivos
 
@@ -23,7 +23,6 @@ A implementação deste projeto visa alcançar os seguintes objetivos:
     
 -   **Capacitar alunos e professores** para o uso de ferramentas digitais em um ambiente de aprendizado flexível e moderno.
     
-
 ## 4. Especificações Técnicas dos Notebooks
 
 Para garantir a longevidade do investimento e o desempenho adequado para as atividades educacionais previstas para os próximos cinco anos, os notebooks a serem adquiridos deverão atender às seguintes especificações:
@@ -31,7 +30,7 @@ Para garantir a longevidade do investimento e o desempenho adequado para as ativ
 |-|-|-|
 |Processador| Intel Core i5 (11° Geração ou superior)|Intel Core I7 (11° Geração ou superior)
 |Memória RAM| 8 GB DDR4| 16 GB DDR4
-|Armazenamento| SSD 512 GB NVMe| SSD 1 TB NVMe 
+|Armazenamento| SSD 256 GB NVMe| SSD 512 GB NVMe 
 |Tela|14 polegadas, Full HD (1920x1080)|15,6 polegadas, Full HD (1920x1080),IPS
 |Bateria| Autonomia mínima de 6 horas de uso contínuo| Autonomia mínima de 8 horas de uso contínuo
 |Conectividade| Wi-Fi 6, Bluetooth 5.1| Wi-Fi 6E, Bluetooth 5.2
@@ -39,6 +38,7 @@ Para garantir a longevidade do investimento e o desempenho adequado para as ativ
 
 **Modelo de Referência:** Para especificações detalhadas, um modelo similar pode ser consultado no site da [Dell](https://www.dell.com/pt-br/shop/cty/pdp/spd/latitude-14-3420-laptop?redirectTo=MOC).
 **Artigo de Apoio:** Um estudo sobre o impacto positivo da tecnologia móvel na educação pode ser lido em ["O Uso Do Notebook Em Sala De Aula Como Facilitador Do Ensino E Aprendizagem Da Matemática"](https://online.unisc.br/acadnet/anais/index.php/pibid_unisc/article/view/17836).
+
 ## 5. Orçamento Estimado
 
 A tabela abaixo detalha os custos projetados para a aquisição dos 30 notebooks e dos serviços e acessórios necessários para a plena execução do projeto.
@@ -61,8 +61,8 @@ A transição para um parque tecnológico móvel trará benefícios significativ
     
 -   **Para os Professores:** Maior flexibilidade para planejar e executar aulas inovadoras, integrando a tecnologia diretamente ao currículo em qualquer ambiente de aprendizado.
     
--   **Para a Instituição:** Otimização do uso de espaços físicos, redução de custos com energia elétrica e manutenção, e fortalecimento da imagem da escola como uma instituição moderna e alinhada às melhores práticas educacionais. A facilidade de armazenamento e distribuição dos notebooks também simplifica a logística de TI.
-- ## 7. Cronograma (Simplificado)
+-   **Para a Instituição:** Otimização do uso de espaços físicos, redução de custos com energia elétrica e manutenção, e fortalecimento da imagem do polo como uma instituição moderna e alinhada às melhores práticas educacionais. A facilidade de armazenamento e distribuição dos notebooks também simplifica a logística de TI.
+- ## 7. Cronograma
 
 O projeto será executado conforme as seguintes fases:
 | Fase | Descrição | Duração Estimada |
