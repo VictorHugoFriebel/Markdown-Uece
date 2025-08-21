@@ -40,6 +40,7 @@ Para garantir a longevidade do investimento e o desempenho adequado para as ativ
 
 **Modelo de Referência:** Para especificações detalhadas, um modelo similar pode ser consultado no site da [Dell](https://www.dell.com/pt-br/shop/cty/pdp/spd/latitude-14-3420-laptop?redirectTo=MOC).
 ![Dell Latitude 3420](img/Dell%20Latidude%203420.jpg)
+
 **Artigo de Apoio:** Um estudo sobre o impacto positivo da tecnologia móvel na educação pode ser lido em ["O Uso Do Notebook Em Sala De Aula Como Facilitador Do Ensino E Aprendizagem Da Matemática"](https://online.unisc.br/acadnet/anais/index.php/pibid_unisc/article/view/17836).
 
 ## 5. Orçamento Estimado
